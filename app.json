@@ -28,6 +28,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "9b06a4ac-28c5-4c83-82f0-5d0d40989e21"
+      }
+    },
+    "owner": "cordeliaskid"
   }
 }
